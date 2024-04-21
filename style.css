@@ -365,6 +365,10 @@ a:hover {
     cursor: default;
     height: 2rem;
 }
+.icon-phone{
+    cursor: default;
+    height: 2rem;
+}
 .fotter p{
     text-align: center;
 }
